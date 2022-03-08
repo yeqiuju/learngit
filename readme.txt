@@ -1,1 +1,2 @@
-这是说明文档。
+This is a readme file.
+haha
